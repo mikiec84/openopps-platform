@@ -15,7 +15,7 @@
     "browserify": "^9.0.3",
     "cfenv": "^1.0.2",
     "chai": "2.1.2",
-    "connect-pg-simple": "^3.0.1",
+    "connect-pg-simple": "^6.1.0",
     "connect-redis": "1.4.5",
     "d3": "^3.5.5",
     "ejs": "0.8.5",
