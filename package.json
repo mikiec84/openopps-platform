@@ -25,7 +25,7 @@
     "grunt-browserify": "^3.5.1",
     "grunt-contrib-cssmin": "0.11.0",
     "grunt-jsonlint": "1.0.4",
-    "i18next": "~1.7.4",
+    "i18next": "~19.5.4",
     "i18next-client": "^1.8.2",
     "icalendar": "0.6.5",
     "jquery.atwho": "ichord/At.js#v0.4.7",
