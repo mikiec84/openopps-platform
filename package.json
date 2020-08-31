@@ -58,7 +58,7 @@
     "topojson": "^1.6.19",
     "uglifyify": "^3.0.1",
     "underscore": "^1.8.2",
-    "validator": "3.4.0",
+    "validator": "13.1.1",
     "bourbon": "^4.2.6",
     "bourbon-neat": "^1.7.2",
     "grunt-sass": "^1.1.0",
